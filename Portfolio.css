@@ -1,0 +1,161 @@
+body{
+    background-color:#333;
+}
+.one{
+    color:white;
+    margin-top:35px;
+    margin-left:100px;
+}
+span{
+    color:red;
+}
+.navbar{
+    margin-left: 950px;
+    margin-top:-50px;
+}
+.navbar a{
+    text-decoration: none;
+    padding-left:20px;
+    color:white;
+    font-size:20px;
+}
+.navbar a:hover{
+    color:red;
+}
+.btn1{
+    margin-left:20px;
+    background-color: red;
+    border:3px solid red;
+    border-radius: 30px;
+    color:white;
+    padding:5px 10px;
+}
+.btn1:hover{
+    background-color: white;
+    color:red;
+    border:3px solid white;
+    cursor:pointer;
+}
+.img1{
+    width:60%;
+    height:100%;
+    margin-left: 640px;
+}
+.two{
+    color:white;
+    margin-top:-380px;
+    margin-left: 100px;
+}
+.three{
+    color:white;
+    margin-left: 100px;
+}
+h3{
+    color:black;
+    margin-left: 100px;
+}
+form{
+    margin-left: 100px;
+}
+input{
+    background-color:white;
+    border:3px solid white;
+    border-radius:30px;
+    padding:5px 70px 5px 10px;
+}
+input::placeholder{
+    color:black;
+    opacity: .6;
+}
+.btn2{
+    margin-left:-90px;
+    background-color:red ;
+    border:2px solid black;
+    border-radius:30px;
+    padding:5px 10px 5px 10px;
+}
+.img2{
+    background-color: black;
+    border:2px solid black;
+    margin-left: 300px;
+    margin-top:350px;
+}
+.four{
+    color:white;
+    margin-left:900px;
+    margin-top:-400px;
+    font-size:50px;
+}
+.five{
+    color:white;
+    margin-left:900px;
+    font-size:20px;
+}
+.six{
+    color:whitesmoke;
+    margin-left:900px;
+    width:25%;
+}
+.btn3{
+    margin-left:900px;
+    margin-top:1.5%;
+    background-color: red;
+    color:white;
+    border:2px solid red;
+    border-radius:30px;
+    padding:5px 15px;
+}
+.btn3:hover{
+    color:red;
+    background-color: white;
+    border:2px solid white;
+}
+.img3{
+    margin-left:300px;
+    margin-top:200px;
+    height:450px;
+    width:450px;
+}
+.seven{
+    margin-left:900px;
+    margin-top:-350px;
+    color:white;
+    font-size: 50px;
+}
+ul{
+    margin-left:900px;
+}
+ul li{
+    color:white;
+    font-size: 25px;
+}
+footer{
+    background-color: black;
+}
+footer h1{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+footer p{
+    color:whitesmoke;
+    font-size: 15px;
+    width:300px;
+    margin-left:600px;
+}
+footer .img4{
+    width:50px;
+    height:50px;
+    margin-left:650px;
+    background-color: palevioletred;
+}
+footer .img5{
+    width:50px;
+    height:50px;
+    background-color: palevioletred;
+}
+footer .img6{
+    width:50px;
+    height:50px;
+    background-color: palevioletred;
+}
